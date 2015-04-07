@@ -53,7 +53,7 @@ public:
 		}
 	}
 
-	void PushBack(Type value)
+	void Push(Type value)
 	{
 		if (data != NULL)
 		{
